@@ -33,7 +33,7 @@ This project applies sentiment analysis and logistic regression to consumer fina
 # Load and analyze data
      import pandas as pd
     from textblob import TextBlob
-from sklearn.linear_model import LogisticRegression
+    from sklearn.linear_model import LogisticRegression
 
 # Run analysis
 df = pd.read_excel('cleaned_complaints.xlsx')
