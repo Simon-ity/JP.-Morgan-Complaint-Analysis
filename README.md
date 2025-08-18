@@ -1,7 +1,7 @@
 # JP.-Morgan-Complaint-Analysis
 ![JPMorganChase-brown-and-white](https://github.com/user-attachments/assets/2fcbeded-b0dd-4705-acfd-a1b8869f8e27)
 
-# 🎯 Project Overview
+# Project Overview
 This project applies sentiment analysis and logistic regression to consumer financial complaints data, predicting dispute likelihood based on emotional indicators in complaint narratives.
 
 # Data Cleaning With Excel Power Query
